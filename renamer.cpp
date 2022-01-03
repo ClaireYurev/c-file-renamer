@@ -2,6 +2,8 @@
 #include <fstream>
 using namespace std;
 
+// # Easter Egg: int32 2201010001
+
 int main(){
 
     ifstream file1("textfileone.txt", ios::binary);
